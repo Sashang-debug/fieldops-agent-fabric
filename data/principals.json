@@ -1,0 +1,17 @@
+[
+  {
+    "id": "triage-agent",
+    "display_name": "Triage Agent",
+    "scopes": ["crm:read", "ticket:read"]
+  },
+  {
+    "id": "action-agent",
+    "display_name": "Action Agent",
+    "scopes": ["crm:read", "ticket:read", "ticket:write"]
+  },
+  {
+    "id": "eval-harness",
+    "display_name": "Eval Harness",
+    "scopes": ["crm:read", "ticket:read"]
+  }
+]

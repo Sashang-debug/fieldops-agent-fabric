@@ -1,0 +1,8 @@
+{"id": "finance-arr-value-mismatch", "document_ref": "finance/q2-board-deck-narrative.md", "expected_findings_min": 1, "must_flag_metrics": ["ARR"], "must_finding_types": ["value_mismatch"]}
+{"id": "finance-gm-definition-mismatch", "document_ref": "finance/q2-board-deck-narrative.md", "expected_findings_min": 1, "must_flag_metrics": ["Gross Margin"], "must_finding_types": ["definition_mismatch"]}
+{"id": "finance-clean-ops-update", "document_ref": "finance/ops-update-clean.md", "expected_findings_count": 0}
+{"id": "finance-clean-cfo-weekly", "document_ref": "finance/cfo-weekly-clean.md", "expected_findings_count": 0}
+{"id": "finance-rounding-tolerance", "document_ref": "finance/rounding-edge-memo.md", "expected_findings_count": 0}
+{"id": "finance-unit-normalization", "document_ref": "finance/unit-mismatch-memo.md", "expected_findings_count": 0}
+{"id": "finance-nrr-value-mismatch", "document_ref": "finance/nrr-drift-memo.md", "expected_findings_min": 1, "must_flag_metrics": ["NRR"], "must_finding_types": ["value_mismatch"]}
+{"id": "finance-board-both-planted", "document_ref": "finance/q2-board-deck-narrative.md", "expected_findings_min": 2, "must_finding_types": ["value_mismatch", "definition_mismatch"]}
